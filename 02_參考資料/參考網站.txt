@@ -8,3 +8,9 @@ https://blog.fangweb.com/2018/12/24/%E5%BE%9E-spring-boot%E5%88%B0-spring-mvc%EF
 https://securenai.github.io/spring/spring_mvc_page01/
 https://kknews.cc/tech/nm52p22.html
 https://kknews.cc/code/3ngbzeg.html
+
+Webview
+https://spicyboyd.blogspot.com/2018/05/appandroid-webview-app.html
+https://jerrynest.io/app-android-webview/
+https://www.itread01.com/content/1546869798.html
+https://blog.csdn.net/carson_ho/article/details/52693322
