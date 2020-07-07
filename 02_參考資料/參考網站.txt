@@ -1,6 +1,7 @@
 智慧工廠:
 https://vmaker.tw/archives/39560
 https://oosga.com/iot/
+https://www.cw.com.tw/article/5093723?template=transformers
 
 spinrg mvc 
 https://www.itread01.com/content/1555435204.html
@@ -14,3 +15,11 @@ https://spicyboyd.blogspot.com/2018/05/appandroid-webview-app.html
 https://jerrynest.io/app-android-webview/
 https://www.itread01.com/content/1546869798.html
 https://blog.csdn.net/carson_ho/article/details/52693322
+
+arduino
+http://elesson.tc.edu.tw/md221/pluginfile.php/4151/mod_resource/content/1/arduino.pdf
+http://icerc.tnssh.tn.edu.tw/download/epaper/epaper43/20091130.pdf
+http://www.esp8266learning.com/wemos-d1-esp8266-based-board.php
+http://ycchentw.blogspot.com/2017/11/arduino-2-arduino-ide-wemos-d1.html
+http://www.makingrobot.net/article/10046
+https://kinsten.com.tw/index.php?route=product/product&path=959_961&product_id=46915
