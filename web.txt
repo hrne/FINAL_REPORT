@@ -1,0 +1,11 @@
+
+要支援 SqlServer 2012 TLS1.2, 必需更新 client 至 11 版之後, 可參考下面網址及下載安裝檔
+https://support.microsoft.com/en-us/help/3135244/tls-1-2-support-for-microsoft-sql-server
+https://www.microsoft.com/en-us/download/details.aspx?id=50402
+
+JDBC 連線, 要和 SQLServer 及 JVM 版本配合, 再加上啟用的設定
+可參考下面網址
+https://docs.microsoft.com/zh-tw/sql/connect/jdbc/microsoft-jdbc-driver-for-sql-server-support-matrix?view=sql-server-ver15
+https://stackoverflow.com/questions/48464863/java-1-8-0-enable-tls1-2-in-jdbc-connection
+Older versions of Microsoft's JDBC driver for SQL Server apparently assume that TLS v1.1 will be available on the server. That is, they were not coded to handle the case where the server explicitly rejects (or ignores) TLS v1.1 traffic.
+Starting with JDBC driver version 6.3.2 we can add ;sslProtocol=TLSv1.2 to our connection URLs to specify the TLS version to use.
